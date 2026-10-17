@@ -1,18 +1,18 @@
 const products = {
   samosa: {
     title: "Chicken Samosa Bites",
-    ingredients: "Spring roll pastry, chicken, potato, onion, garlic, ginger, curry leaves, chicken stock, vegetable oil, salt, mustard seeds, fennel, garam masala, coriander, Kashmiri chilli, cumin, turmeric and carom seeds.",
-    allergens: ["Wheat", "Milk", "Celery", "Mustard"]
+    ingredients: "Spring roll pastry, chicken, potato, onion, garlic, ginger, curry leaves, vegetable oil, salt, fennel, garam masala, coriander, Kashmiri chilli, cumin, turmeric and cinnamon.",
+    allergens: ["Wheat", "Milk"]
   },
   pastry: {
     title: "Chicken & Cheese Puff Pastries",
-    ingredients: "Puff pastry, chicken, potato, onion, garlic, ginger, curry leaves, vegetable oil, chicken stock, salt, mustard seeds, fennel, garam masala, coriander, Kashmiri chilli, cumin, turmeric, mature cheddar, butter and sesame seeds.",
-    allergens: ["Wheat", "Milk", "Celery", "Mustard", "Sesame"]
+    ingredients: "Puff pastry, chicken, potato, onion, garlic, ginger, curry leaves, vegetable oil, salt, seeds, fennel, cinnamon, garam masala, coriander, Kashmiri chilli, cumin, turmeric, mature cheddar, mozarella and butter.",
+    allergens: ["Wheat", "Milk"]
   },
   "fish-bun": {
     title: "Fish Bun",
-    ingredients: "Jack mackerel, potato, onion, leeks, garlic, curry leaves, vegetable oil, salt, mustard seeds, fennel, garam masala, coriander, Kashmiri chilli, black pepper, turmeric, wheat flour, yeast, sugar, water, butter, egg and sesame seeds.",
-    allergens: ["Fish", "Wheat", "Milk", "Egg", "Mustard", "Sesame"]
+    ingredients: "Jack mackerel, potato, onion, leeks, garlic, curry leaves, vegetable oil, salt, fennel, cinnamon, garam masala, coriander, Kashmiri chilli, black pepper, turmeric, wheat flour, yeast, sugar, water, butter and egg.",
+    allergens: ["Fish", "Wheat", "Milk", "Egg"]
   },
   cake: {
     title: "Butter Cake",
